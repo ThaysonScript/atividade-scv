@@ -15,4 +15,13 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Thayson</td>
+    <td>Calçado</td>
+    <td>
+      <a href="https://github.com/ThaysonScript">
+          github.com/ThaysonScript
+        </a>
+    </td>
+  </tr>
 </table>
